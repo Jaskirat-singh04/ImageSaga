@@ -5,6 +5,7 @@ This web app is an innovative app powered by cutting-edge technology that transf
 # Image to Audio Story Converter
 
 ![image](https://github.com/Jaskirat-singh04/ImageSaga/assets/83869412/ed433c43-8417-4f9f-91dc-d5519f1a465a)
+![image](https://github.com/Jaskirat-singh04/ImageSaga/assets/83869412/4c8ca6bc-a24a-4b8c-8787-a8dac06cbef1)
 
 
 ## Overview
