@@ -17,7 +17,7 @@ The Image to Audio Story Converter is a Python application that utilizes deep le
 - Interactive User Interface: The application has a user-friendly interface built with Streamlit, allowing for easy image upload and audio playback.
 
 ## Getting Started
-1. Clone this repository: `git clone https://github.com/your_username/repo_name.git`
+1. Clone this repository: `[git clone https://github.com/your_username/repo_name.git](https://github.com/Jaskirat-singh04/ImageSaga.git)`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Set up the necessary API tokens and environment variables.
 4. Run the application: `streamlit run app.py`
